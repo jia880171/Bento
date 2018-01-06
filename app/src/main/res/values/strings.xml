@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Bento</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="MainFragment_hello">Hello Bento!</string>
+    <string name="MainFragment_host">發起訂購</string>
+    <string name="MainFragment_join">加入訂購</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="CreateRoomFragment_hello">發起訂購！</string>
+    <string name="CreateRoomFragment_step1">1.選擇便當店或直接拍照（菜單）</string>
+    <string name="CreateRoomFragment_step2">2.邀請 或 選擇群組</string>
+    <string name="CreateRoomFragment_step3">3.亦可給他人房號自行加入</string>
+    <string name="CreateRoomFragment_buttonStart">開始</string>
+
+
+    <string name="bottom_navigation_title_home">首頁</string>
+    <string name="bottom_navigation_title_host">發起訂購</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+</resources>

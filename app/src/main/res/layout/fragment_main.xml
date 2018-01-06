@@ -1,0 +1,38 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.unick.bento.fragments.MainFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/MainFragment_hello" />
+
+        <!--<Button-->
+            <!--android:id="@+id/button_host"-->
+            <!--android:text="@string/MainFragment_host"-->
+            <!--android:layout_width="200dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_centerHorizontal="true"-->
+            <!--android:layout_marginTop="30dp"-->
+            <!--/>-->
+
+        <!--<Button-->
+            <!--android:id="@+id/button_join"-->
+            <!--android:text="@string/MainFragment_join"-->
+            <!--android:layout_width="200dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_centerHorizontal="true"-->
+            <!--android:layout_marginTop="30dp"-->
+            <!--android:layout_below="@+id/button_host"-->
+            <!--/>-->
+
+    </RelativeLayout>
+
+
+</FrameLayout>
